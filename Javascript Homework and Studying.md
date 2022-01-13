@@ -1,4 +1,3 @@
-# Javascript Homework and Studying
+# Js Homework and Studying for STEM ENRG Classes
 
-This repository will serve as a way to keep track of any js homework or studying that needs to be done for the STEM ENRG Tech classes.
-
+This repo will serve as a way to track any javascript homework or studying I encounter for my STEM ENRG classes.
