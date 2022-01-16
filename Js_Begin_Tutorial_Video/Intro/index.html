@@ -1,0 +1,28 @@
+<!-- You can add javascrip element to the head or body of a page-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<center>
+<h1> This is a webpage </h1>
+
+<body>
+
+
+<p>I want to go to <strong>MEXICO</strong> </p> 
+
+<script src="index.js"></script>
+<!--Best practice is to put to script at the end of the body section after all other scripting elements-->
+<!--Usually don't put in in the header because browser reads script from top to bottom. If script
+is in the top, it'll take longer to load/render the page. Will make a bad UX-->
+<!--Also, script will usually need to talk to page elements so is dependent on it being present
+There may be exceptions if you're using third party code that has to get in the head section--> 
+</body>
+
+</center>
+</html>
